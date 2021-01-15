@@ -1,3 +1,6 @@
+# repository
+Application that I did to try out docker and how it works.
+
 ## Running the app only
 - "npm install"
 - "npm start"
