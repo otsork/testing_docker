@@ -8,7 +8,7 @@ Application that I did to try out docker and how it works.
 
 ## Making a docker image
 - make sure you have docker running
-- make sure you have a nodejs available
+- make sure you have a nodejs available ("docker pull node" if not)
 - "docker build ."
 - "docker run -p {portYouWishToRunDockerIn}:8000 {dockerImageId}"
 - open the browser in localhost:{portYouDefinedToRunDockerIn}
