@@ -11,4 +11,4 @@ Application that I did to try out docker and how it works.
 - make sure you have a nodejs available
 - "docker build ."
 - "docker run -p {portYouWishToRunDockerIn}:8000 {dockerImageId}"
-- open the browser in localhost:{portYouWishToRunDockerIn}
+- open the browser in localhost:{portYouDefinedToRunDockerIn}
